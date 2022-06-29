@@ -1,2 +1,2 @@
 # Python_Project
-Small Python Projects
+Mini Projects
